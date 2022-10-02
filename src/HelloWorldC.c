@@ -19,7 +19,8 @@ int main(void) {
 	printf("\n!!!Hello World C code 4!!!"); /* prints !!!Hello WorldC!!! */
 	printf("\n!!!Hello World C code 5!!!"); /* prints !!!Hello WorldC!!! */
 
-	PrintGreeting("Israel");
+	PrintGreeting("Israel 1");
+	PrintGreeting("Israel 2");
 	return EXIT_SUCCESS;
 }
 
