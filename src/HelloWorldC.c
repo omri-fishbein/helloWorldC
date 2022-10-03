@@ -23,6 +23,7 @@ int main(void) {
 	PrintGreeting("Israel 2");
 	PrintGreeting("Israel 3");
 	PrintGreeting("Israel 4");
+	PrintGreeting("Israel 5");
 	return EXIT_SUCCESS;
 }
 
